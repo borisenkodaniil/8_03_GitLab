@@ -9,7 +9,7 @@
 
 Скриншот созданного проекта и настроек runnera:
 
-![GitLab](https://github.com/borisenkodaniil/8_03_GitLab/main/img/gitlab1.png)
+![GitLab](https://github.com/borisenkodaniil/8_03_GitLab/blob/main/img/gitlab1.png)
 
 
 ### Задание 2
@@ -26,8 +26,8 @@
 
 В данном варианте я использовал простой пайплайн, в связи с ограниченными техническими характеристиками. 
 
-[Содержимое .gitlab-ci.yml](https://github.com/borisenkodaniil/8_03_GitLab/.gitlab-ci.yml)
+[Содержимое .gitlab-ci.yml](https://github.com/borisenkodaniil/8_03_GitLab/blob/main/.gitlab-ci.yml)
 
-![GitLab CI](https://github.com/borisenkodaniil/8_03_GitLab/main/img/gitlab2.png)
+![GitLab CI](https://github.com/borisenkodaniil/8_03_GitLab/blob/main/img/gitlab2.png)
 
 
