@@ -26,28 +26,8 @@
 
 В данном варианте я использовал простой пайплайн, в связи с ограниченными техническими характеристиками. 
 
-Содержимое .gitlab-ci.yml:
+[Содержимое .gitlab-ci.yml](https://github.com/borisenkodaniil/8_03_GitLab/.gitlab-ci.yml)
 
-stages:
-  - test
-  - build
-
-test:
-  stage: test
-  image: golang:1.17
-  tags:
-    - netology
-  script:
-    - go test ./...
-
-build:
-  stage: build
-  image: golang:1.17
-  tags:
-    - netology
-  script:
-    - go build .
-
-![GitLab CI](img/gitlab2.png)
+![GitLab CI](https://github.com/borisenkodaniil/8_03_GitLab/main/img/gitlab2.png)
 
 
